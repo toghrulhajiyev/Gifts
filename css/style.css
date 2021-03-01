@@ -1,0 +1,9 @@
+.gift {
+    margin-top: 2em;
+    filter: blur(30px);
+    transition: all .5s linear;
+}
+
+.gift-text {
+    margin-top: .5em;
+}
